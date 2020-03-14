@@ -1,0 +1,42 @@
+header{
+	background-color: #2f3640 	;
+	z-index: 9999999;
+}
+
+p{
+	font-size: 1.3rem;
+}
+
+.margin-t-100{
+	margin-top: 100px !important;
+}
+
+#contact-title{
+	margin-top: 200px;
+}
+
+.required{
+	color: red;
+}
+
+#logo-cdm{
+	border-radius: 100px;
+}
+
+#logo-cdm:hover{
+	opacity: .7;
+	transition: opacity .4s;
+}
+
+.bloc-admin{
+	margin: 200px 100px;
+	overflow: auto;
+}
+
+footer{
+	background-color: #2f3542;
+}
+
+footer p{
+	font-size: 1rem;
+}
